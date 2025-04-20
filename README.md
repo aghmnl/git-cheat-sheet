@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-Welcome to the [Git Cheat Sheet](https://your-github-username.github.io/git-cheat-sheet/) repository! This project provides a quick reference guide for commonly used Git commands, available in both English and Spanish. It is designed to help developers of all levels quickly find the commands they need to manage their Git repositories effectively.
+Welcome to the [Git Cheat Sheet](https://aghmnl.github.io/git-cheat-sheet/) repository! This project provides a quick reference guide for commonly used Git commands, available in both English and Spanish. It is designed to help developers of all levels quickly find the commands they need to manage their Git repositories effectively.
 
 ## Purpose
 
@@ -19,7 +19,7 @@ The purpose of this repository is to:
 
 ## How to Use
 
-1. Visit the [Git Cheat Sheet](https://your-github-username.github.io/git-cheat-sheet/) hosted on GitHub Pages.
+1. Visit the [Git Cheat Sheet](https://aghmnl.github.io/git-cheat-sheet/) hosted on GitHub Pages.
 2. Choose your preferred language (English or Español).
 3. Browse the categorized commands and find the ones you need.
 
