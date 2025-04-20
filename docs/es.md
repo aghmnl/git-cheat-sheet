@@ -1,8 +1,10 @@
 # Git Cheat Sheet (Español)
 
+[Volver al Índice](index.md) | [View in English](en.md)
+
 ## Comandos Básicos
 
-- `git init`: Inicializa un nuevo repositorio en el directiorio actual.
+- `git init`: Inicializa un nuevo repositorio.
 - `git init [nombre-proyecto]`: Inicializa un nuevo repositorio en un directorio específico.
 - `git clone [url]`: Clona un repositorio desde una URL remota.
 - `git status`: Muestra el estado del directorio de trabajo.
