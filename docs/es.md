@@ -24,8 +24,10 @@
 - `git branch [nombre-rama]`: Crea una nueva rama.
 - `git checkout -b [nombre-rama]`: Crea y cambia a una nueva rama.
 - `git checkout [nombre-rama]`: Cambia a una rama existente.
-- `git checkout [hash]`: Cambia a un commit específico por su hash.
-- `git merge [nombre-rama]`: Fusiona una rama en la rama actual.
+- `git checkout [hash]`: Cambia a un commit específico usando su hash.
+- `git switch [nombre-rama]`: Cambia a una rama existente (alternativa a `git checkout [nombre-rama]`).
+- `git switch -c [nombre-rama]`: Crea y cambia a una nueva rama (alternativa a `git checkout -b [nombre-rama]`).
+- `git merge [nombre-rama]`: Fusiona una rama con la rama actual.
 
 ## Repositorios Remotos
 
