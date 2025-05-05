@@ -25,6 +25,8 @@
 - `git checkout -b [branch-name]`: Create and switch to a new branch.
 - `git checkout [branch-name]`: Switch to an existing branch.
 - `git checkout [hash]`: Check out a specific commit by its hash.
+- `git switch [branch-name]`: Switch to an existing branch (alternative to `git checkout [branch-name]`).
+- `git switch -c [branch-name]`: Create and switch to a new branch (alternative to `git checkout -b [branch-name]`).
 - `git merge [branch-name]`: Merge a branch into the current branch.
 
 ## Remote Repositories
